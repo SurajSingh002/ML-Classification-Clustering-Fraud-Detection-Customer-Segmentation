@@ -30,11 +30,8 @@ This project focuses on detecting fraudulent credit card transactions using mach
 - Pandas  
 - NumPy  
 - Scikit-learn  
-- Imbalanced-learn  
-
-## 📷 Output
-(Add screenshots here)
-
+- Imbalanced-learn
+  
 ## 🚀 How to Run
 pip install pandas numpy scikit-learn imbalanced-learn  
 jupyter notebook  
