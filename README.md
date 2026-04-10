@@ -5,7 +5,14 @@
 Hi, I'm Suraj Singh, a B.Tech graduate aspiring Data Science Engineer.
 
 ## 📌 Project Overview
-This project focuses on detecting fraudulent credit card transactions using machine learning techniques.
+
+- The CreditCard.CSV File On Kaggle
+- Link oF The .CSV File : https://www.kaggle.com/datasets/surajsingh83/creditcard-csv
+  
+- The Mall_Customer.CSV File On Kaggle
+- Link oF The .CSV File :  https://www.kaggle.com/datasets/surajsingh83/mall-customer-csv
+  
+- This project focuses on detecting fraudulent credit card transactions using machine learning techniques.
 
 ## 🎯 Objectives
 - Handle imbalanced dataset  
